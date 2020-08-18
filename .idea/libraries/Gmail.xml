@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gmail">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/Gmail/javax.mail-1.4.5.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/Gmail/commons-email-1.3.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Gmail" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Desktop/Gmail/javax.mail-1.4.5-sources.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/Gmail" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Desktop/Gmail" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/Gmail" recursive="false" type="SOURCES" />
+  </library>
+</component>
